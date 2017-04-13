@@ -118,7 +118,7 @@ public final class BouncyCastleProvider extends Provider
     private static final String KEYSTORE_PACKAGE = "org.spongycastle.jcajce.provider.keystore.";
     private static final String[] KEYSTORES =
     {
-        "SC", "BCFKS", "PKCS12"
+        "BC", "BCFKS", "PKCS12"
     };
 
     /*
