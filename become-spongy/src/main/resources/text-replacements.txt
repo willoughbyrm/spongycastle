@@ -1,0 +1,3 @@
+regex:bouncycastle(?!.org)==>spongycastle
+"BC"==>"SC"
+"BCJSSE"==>"SCJSSE"
